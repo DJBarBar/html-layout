@@ -1,0 +1,45 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  height: 1000px;
+
+}
+
+h1{
+font-size: 35px;
+color: white
+
+}
+.first_column{
+background: blue;
+width: 33%;
+height: 100%;
+float: left;
+}
+
+.second_column{
+background: teal;
+width: 33%;
+height: 100%;
+float: left;
+}
+
+.third_column{
+background: teal;
+width: 33%;
+height: 100%;
+float: left;
+}
+
+.top{
+background: limegreen;
+height: 800px;
+}
+
+.bottom{
+background: red;
+height: 200px;
+text-align: center;
+padding-top: 80px;
+}
