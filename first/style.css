@@ -1,0 +1,30 @@
+.top_box{
+background: #404040;
+width: 100%;
+height: 80px;
+}
+
+.left_box{
+  float: left;
+  background: #707070;
+width: 150px;
+height: 558px;
+}
+
+.right_box{
+  float: right;
+  background: #707070;
+  width: 150px;
+  height: 558px;
+}
+
+.bottom_box{
+  background: black;
+height: 40px;
+position: absolute;
+right: 150px;
+left: 150px;
+bottom: 0px;
+
+
+}
